@@ -1,0 +1,6 @@
+{
+  "name": "Notely",
+  "description": "Professional mobile notes and to-do app with rich text, checklists, drawing, search, and secure backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
